@@ -1,0 +1,6 @@
+{
+  "short_name": "Tests",
+  "name": "Testa aplikācija",
+  "start_url": "./index.html",
+  "display": "standalone"
+}

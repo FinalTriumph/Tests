@@ -1,5 +1,5 @@
 'php' mapē:
 - fails ar testa datiem
-- fails, kurš atbild uz pieprasījumiem no React puses.
+- fails ar atbildēm uz pieprasījumiem
 
 'react-app' mapē viss pārējais.
